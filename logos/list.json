@@ -1,0 +1,16 @@
+{
+  "logos": [
+    {
+      "path": "/home/neon/.config/fastfetch/logos/logo3.txt",
+      "colors": {
+        "1": "magenta"
+      }
+    },
+    {
+      "path": "/home/neon/.config/fastfetch/logos/logo4.txt",
+      "colors": {
+        "1": "38;5;114"
+      }
+    }
+  ]
+}
